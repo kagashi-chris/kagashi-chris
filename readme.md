@@ -10,8 +10,8 @@
 
 ### Front End
 
-<img src="assets\HTML5Icon.png" width="45" height="60" style="padding-right:15px">
-<img src="assets\CSS3Icon.png" width="45" height="60" style="padding-right:15px">
+<img src="assets\HTML5Icon.png" width="45" height="60" style="padding-right:15px"> | <img src="assets\CSS3Icon.png" width="45" height="60" style="padding-right:15px">
+
 <img src="assets\JavascriptIcon.png" width="45" height="60" style="padding-right:15px">
 <img src="assets\ReactIcon.png" width="45" height="60" style="padding-right:15px">
 
