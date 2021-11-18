@@ -10,13 +10,13 @@
 
 ### Front End
 
-&nbsp; <img src="assets\HTML5Icon.png" width="45" height="60"> &nbsp;| &nbsp;<img src="assets\CSS3Icon.png" width="45" height="60" > &nbsp;| &nbsp;<img src="assets\JavascriptIcon.png" width="45" height="60" >&nbsp; | &nbsp;<img src="assets\ReactIcon.png" width="45" height="60" >&nbsp;
+&nbsp; <img src="assets\HTML5Icon.png" width="45" height="60">&nbsp;|&nbsp;<img src="assets\CSS3Icon.png" width="45" height="60" >&nbsp;|&nbsp;<img src="assets\JavascriptIcon.png" width="45" height="60" >&nbsp; | &nbsp;<img src="assets\ReactIcon.png" width="45" height="60" >&nbsp;
 
 ### &nbsp;
 
 ### Back End
 
-&nbsp;<img src="assets\JavaIcon.png" width="45" height="60" > &nbsp;|&nbsp;<img src="assets\PythonIcon.png" width="45" height="60" >&nbsp;|&nbsp;<img src="assets\SpringFrameworkIcon.png" width="45" height="60" >&nbsp;
+&nbsp;<img src="assets\JavaIcon.png" width="45" height="60" >&nbsp;|&nbsp;<img src="assets\PythonIcon.png" width="45" height="60" >&nbsp;|&nbsp;<img src="assets\SpringFrameworkIcon.png" width="45" height="60" >&nbsp;
 
 ### &nbsp;
 
