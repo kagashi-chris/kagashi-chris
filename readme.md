@@ -1,7 +1,13 @@
+### Hi there, I'm Chris - aka Kagashi
+
+### I'm a Developer as well as an Artist!
+
 - 👋 Hi, my name is Chris
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+### Languages and Tools
 
 <img src="assets\GithubIcon.png" width="50" height="65">
