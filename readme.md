@@ -1,4 +1,5 @@
-### Hi there, I'm Chris - aka Kagashi
+### Hi there, I'm Chris
+
 
 ### I'm a Developer as well as an Artist!
 
