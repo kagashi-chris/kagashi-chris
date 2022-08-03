@@ -4,7 +4,7 @@
 ### I'm a Developer as well as an Artist!
 
 - 👋 Hi, my name is ... Chris
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently learning ... Typescript
 - 📫 How to reach me ... chris.zhendev@gmail.com
 
 ### &nbsp;
