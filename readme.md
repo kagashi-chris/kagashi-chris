@@ -1,7 +1,7 @@
 ### Hi there, I'm Chris
 
 
-### I'm a Developer as well as an Artist!
+### I'm a Full Stack Developer
 
 - 👋 Hi, my name is ... Chris
 - 🌱 I’m currently learning ... Typescript
